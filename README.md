@@ -1,6 +1,7 @@
 # Currency-Converter
 Currency Converter
-This is a simple Currency Converter application built using HTML, CSS, and JavaScript. The app allows users to convert an amount from one currency to another using real-time exchange rates fetched from a reliable API.
+This is a simple Currency Converter application built using HTML, CSS, and JavaScript.
+The app allows users to convert an amount from one currency to another using real-time exchange rates fetched from a reliable API.
 
 Features
 Real-time Currency Conversion: Get the latest exchange rates and convert currencies instantly.
